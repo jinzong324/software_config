@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\codeStyleSettings.xml" timestamp="1483686087262" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\compiler.xml" timestamp="1484633436426" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\encodings.xml" timestamp="1483689846402" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1483700357062" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1483700357075" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\misc.xml" timestamp="1481164079225" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\modules.xml" timestamp="1481163636476" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\.idea\workspace.xml" timestamp="1484633436400" />
+    <file path="E:\workspace\Intellij_IDEA_workspace\test1\test1.iml" timestamp="1484633436361" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,667 @@
+2016-12-08 19:46:18,903 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-08 19:46:19,370 [    467]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 426 ms
+2016-12-08 19:46:19,516 [    613]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-08 19:46:20,122 [   1219]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 606 ms
+2016-12-08 19:46:20,123 [   1220]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 14 modules, 176 libraries
+2016-12-08 19:46:20,483 [   1580]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-08 19:46:20,756 [   1853]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2016-12-08 19:46:20,761 [   1858]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-08 19:46:20,761 [   1858]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-08 19:46:20,814 [   1911]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-08 19:46:20,814 [   1911]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started bb37f7b4
+2016-12-08 19:46:20,861 [   1958]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-08 19:46:20,950 [   2047]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 89 ms
+2016-12-08 19:46:21,627 [   2724]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-08 19:46:23,357 [   4454]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_102 to compile java sources
+2016-12-08 19:46:23,359 [   4456]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-slib
+2016-12-08 19:46:24,057 [   5154]   INFO - s.incremental.java.JavaBuilder - Compiling 14 java files; module: sherpa-security
+2016-12-08 19:46:25,145 [   6242]   INFO - s.incremental.java.JavaBuilder - Compiling 663 java files; module: sherpa-db
+2016-12-08 19:46:38,144 [  19241]   INFO - s.incremental.java.JavaBuilder - Compiling 537 java files; module: sherpa-common
+2016-12-08 19:46:43,659 [  24756]   INFO - s.incremental.java.JavaBuilder - Compiling 177 java files; module: sherpa-web-api
+2016-12-08 19:46:46,127 [  27224]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: sherpa-util
+2016-12-08 19:46:46,580 [  27677]   INFO - s.incremental.java.JavaBuilder - Compiling 46 java files; module: sherpa-rest-api
+2016-12-08 19:46:47,436 [  28533]   INFO - s.incremental.java.JavaBuilder - Compiling 1043 java files; module: sherpa-dms
+2016-12-08 19:47:06,327 [  47424]   INFO - s.incremental.java.JavaBuilder - Compiling 50 java files; module: sherpa-cou-api
+2016-12-08 19:47:07,166 [  48263]   INFO - s.incremental.java.JavaBuilder - Compiling 65 java files; module: sherpa-batch
+2016-12-08 19:47:08,106 [  49203]   INFO - s.incremental.java.JavaBuilder - Compiling 7 java files; module: sherpa-auth-api
+2016-12-08 19:47:08,606 [  49703]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 1095 ms, 0 sources processed
+2016-12-08 19:47:08,607 [  49704]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 1466 ms, 0 sources processed
+2016-12-08 19:47:08,607 [  49704]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 88 ms, 0 sources processed
+2016-12-08 19:47:08,607 [  49704]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 1094 ms, 591 sources processed
+2016-12-08 19:47:08,607 [  49704]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 40913 ms, 2605 sources processed
+2016-12-08 19:47:09,831 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-08 19:47:11,162 [   1331]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 725 ms
+2016-12-08 19:47:11,172 [   1341]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-08 19:47:11,189 [   1358]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-08 19:47:11,777 [   1946]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 588 ms
+2016-12-08 19:47:11,777 [   1946]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 14 modules, 176 libraries
+2016-12-08 19:47:12,196 [   2365]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-08 19:47:12,365 [   2534]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2536 ms
+2016-12-08 19:48:45,031 [  95200]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2016-12-08 19:56:02,017 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-08 19:56:02,463 [    446]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 391 ms
+2016-12-08 19:56:02,533 [    516]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-08 19:56:03,180 [   1163]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 647 ms
+2016-12-08 19:56:03,180 [   1163]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-08 19:56:03,530 [   1513]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-08 19:56:03,849 [   1832]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-08 19:56:03,855 [   1838]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-08 19:56:03,855 [   1838]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-08 19:56:03,892 [   1875]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-08 19:56:03,892 [   1875]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started acd2734f
+2016-12-08 19:56:03,898 [   1881]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-08 19:56:03,990 [   1973]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 92 ms
+2016-12-08 19:56:04,777 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-08 19:56:05,143 [    366]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 334 ms
+2016-12-08 19:56:05,151 [    374]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-08 19:56:05,164 [    387]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-08 19:56:05,787 [   1010]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 623 ms
+2016-12-08 19:56:05,787 [   1010]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-08 19:56:06,172 [   1395]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-08 19:56:06,335 [   1558]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1559 ms
+2016-12-08 20:18:41,617 [1356840]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-08 20:18:41,622 [1356845]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-08 20:18:41,622 [1356845]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-08 20:18:41,662 [1356885]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-08 20:18:41,662 [1356885]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e0194e57
+2016-12-08 20:18:41,669 [1356892]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-08 20:18:41,708 [1356931]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 39 ms
+2016-12-08 20:18:43,422 [1358645]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_102 to compile java sources
+2016-12-08 20:18:43,425 [1358648]   INFO - s.incremental.java.JavaBuilder - Compiling 32 java files; module: sherpa-wechat
+2016-12-08 20:18:45,352 [1360575]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2016-12-08 20:18:45,889 [1361112]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1894 ms, 32 sources processed
+2016-12-08 20:18:45,889 [1361112]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 70 ms, 0 sources processed
+2016-12-08 20:18:45,889 [1361112]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 45 ms, 12 sources processed
+2016-12-08 20:18:45,889 [1361112]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 77 ms, 0 sources processed
+2016-12-08 20:18:46,945 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-08 20:18:47,525 [    580]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 519 ms
+2016-12-08 20:18:47,533 [    588]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-08 20:18:47,553 [    608]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-08 20:18:48,279 [   1334]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 726 ms
+2016-12-08 20:18:48,279 [   1334]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-08 20:18:48,790 [   1845]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-08 20:18:48,999 [   2054]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2056 ms
+2016-12-08 20:18:49,044 [   2099]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2016-12-09 12:02:18,419 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 12:02:18,852 [    433]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 397 ms
+2016-12-09 12:02:18,929 [    510]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 12:02:19,651 [   1232]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 722 ms
+2016-12-09 12:02:19,651 [   1232]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 12:02:20,145 [   1726]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 12:02:20,333 [   1914]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 12:02:20,338 [   1919]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 12:02:20,338 [   1919]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 12:02:20,386 [   1967]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 12:02:20,386 [   1967]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9ca313d9
+2016-12-09 12:02:20,394 [   1975]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 12:02:20,431 [   2012]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 37 ms
+2016-12-09 12:02:20,721 [   2302]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 12:02:21,401 [   2982]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_102 to compile java sources
+2016-12-09 12:02:21,409 [   2990]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-web-api (tests)
+2016-12-09 12:02:22,658 [   4239]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2016-12-09 12:02:22,750 [   4331]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 29 ms, 12 sources processed
+2016-12-09 12:02:22,750 [   4331]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1242 ms, 1 sources processed
+2016-12-09 12:02:23,910 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 12:02:24,475 [    565]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 502 ms
+2016-12-09 12:02:24,485 [    575]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 12:02:24,507 [    597]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 12:02:25,365 [   1455]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 858 ms
+2016-12-09 12:02:25,366 [   1456]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 12:02:26,057 [   2147]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 12:02:26,274 [   2364]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2365 ms
+2016-12-09 12:22:25,895 [1201985]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 12:22:25,948 [1202038]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 12:22:25,949 [1202039]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 12:22:26,012 [1202102]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 12:22:26,012 [1202102]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8bcff12b
+2016-12-09 12:22:26,031 [1202121]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 12:22:26,166 [1202256]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 135 ms
+2016-12-09 12:22:29,803 [1205893]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 29 ms, 12 sources processed
+2016-12-09 12:22:29,803 [1205893]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Artifacts builder' builder took 2482 ms, 2539 sources processed
+2016-12-09 12:22:30,455 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 12:22:30,928 [    473]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 435 ms
+2016-12-09 12:22:30,938 [    483]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 12:22:30,953 [    498]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 12:22:31,623 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 670 ms
+2016-12-09 12:22:31,623 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 12:22:32,022 [   1567]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 12:22:32,322 [   1867]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1869 ms
+2016-12-09 12:25:36,368 [ 185913]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 12:25:36,373 [ 185918]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 12:25:36,373 [ 185918]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 12:25:36,414 [ 185959]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 12:25:36,414 [ 185959]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started afba2d3b
+2016-12-09 12:25:36,421 [ 185966]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 12:25:36,455 [ 186000]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 34 ms
+2016-12-09 12:25:36,901 [ 186446]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Artifacts builder' builder took 101 ms, 0 sources processed
+2016-12-09 12:25:37,477 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 12:25:37,864 [    387]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 351 ms
+2016-12-09 12:25:37,871 [    394]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 12:25:37,885 [    408]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 12:25:38,528 [   1051]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 643 ms
+2016-12-09 12:25:38,528 [   1051]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 12:25:38,932 [   1455]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 12:25:39,159 [   1682]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1684 ms
+2016-12-09 13:14:12,662 [2915185]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 13:14:12,673 [2915196]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 13:14:12,673 [2915196]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 13:14:12,719 [2915242]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 13:14:12,719 [2915242]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d580ecbc
+2016-12-09 13:14:12,730 [2915253]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 13:14:12,805 [2915328]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 74 ms
+2016-12-09 13:14:13,328 [2915851]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Artifacts builder' builder took 109 ms, 0 sources processed
+2016-12-09 13:14:13,907 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 13:14:14,282 [    375]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 346 ms
+2016-12-09 13:14:14,290 [    383]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 13:14:14,304 [    397]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 13:14:15,014 [   1107]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 710 ms
+2016-12-09 13:14:15,014 [   1107]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 13:14:15,342 [   1435]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 13:14:15,558 [   1651]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1652 ms
+2016-12-09 13:16:51,177 [ 157270]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 13:16:51,181 [ 157274]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 13:16:51,181 [ 157274]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 13:16:51,221 [ 157314]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 13:16:51,221 [ 157314]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3c0ce389
+2016-12-09 13:16:51,228 [ 157321]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 13:16:51,262 [ 157355]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 34 ms
+2016-12-09 13:16:57,084 [ 163177]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Artifacts builder' builder took 5309 ms, 479 sources processed
+2016-12-09 13:16:57,675 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 13:16:58,074 [    400]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 353 ms
+2016-12-09 13:16:58,082 [    408]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 13:16:58,096 [    422]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 13:16:58,730 [   1056]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 634 ms
+2016-12-09 13:16:58,731 [   1057]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 13:16:59,284 [   1610]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 13:16:59,531 [   1857]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1858 ms
+2016-12-09 13:19:52,592 [ 174918]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2016-12-09 13:19:52,600 [ 174926]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-09 13:19:52,600 [ 174926]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-09 13:19:52,693 [ 175019]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-09 13:19:52,693 [ 175019]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 455a942e
+2016-12-09 13:19:52,706 [ 175032]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-09 13:19:52,789 [ 175115]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 83 ms
+2016-12-09 13:19:53,401 [ 175727]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Artifacts builder' builder took 205 ms, 0 sources processed
+2016-12-09 13:19:53,976 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-09 13:19:54,361 [    385]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 349 ms
+2016-12-09 13:19:54,368 [    392]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-09 13:19:54,383 [    407]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-09 13:19:55,013 [   1037]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 631 ms
+2016-12-09 13:19:55,013 [   1037]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2016-12-09 13:19:55,387 [   1411]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-09 13:19:55,587 [   1611]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1612 ms
+2016-12-09 15:04:00,114 [6246138]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2016-12-16 17:37:57,878 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-16 17:37:58,294 [    416]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 380 ms
+2016-12-16 17:37:58,420 [    542]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/LearnProject, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-16 17:37:58,772 [    894]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 352 ms
+2016-12-16 17:37:58,773 [    895]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 2 modules, 4 libraries
+2016-12-16 17:37:58,929 [   1051]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-16 17:37:59,207 [   1329]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2016-12-16 17:37:59,212 [   1334]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2016-12-16 17:37:59,212 [   1334]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2016-12-16 17:37:59,257 [   1379]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2016-12-16 17:37:59,257 [   1379]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6cb1fb06
+2016-12-16 17:37:59,271 [   1393]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2016-12-16 17:37:59,281 [   1403]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2016-12-16 17:37:59,635 [   1757]   INFO - s.incremental.java.JavaBuilder - Using javac 1.8.0_102 to compile java sources
+2016-12-16 17:37:59,641 [   1763]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: learn1
+2016-12-16 17:38:00,433 [   2555]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2016-12-16 17:38:00,518 [   2640]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-16 17:38:00,569 [   2691]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 771 ms, 1 sources processed
+2016-12-16 17:38:02,254 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/ecj-4.6.1.jar
+2016-12-16 17:38:02,844 [    590]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 522 ms
+2016-12-16 17:38:02,851 [    597]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2016-12-16 17:38:02,866 [    612]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/LearnProject, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2016-12-16 17:38:03,193 [    939]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 327 ms
+2016-12-16 17:38:03,193 [    939]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 2 modules, 4 libraries
+2016-12-16 17:38:03,326 [   1072]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2016-12-16 17:38:03,477 [   1223]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1225 ms
+2016-12-16 17:38:03,515 [   1261]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-06 17:03:34,956 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 17:03:35,453 [    497]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 464 ms
+2017-01-06 17:03:35,590 [    634]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 17:03:35,969 [   1013]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 379 ms
+2017-01-06 17:03:35,969 [   1013]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-01-06 17:03:36,116 [   1160]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 17:03:36,395 [   1439]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2017-01-06 17:03:36,399 [   1443]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 17:03:36,399 [   1443]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 17:03:36,432 [   1476]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 17:03:36,432 [   1476]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 57dfaa79
+2017-01-06 17:03:36,465 [   1509]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 17:03:36,472 [   1516]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2017-01-06 17:03:36,724 [   1768]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 17:03:36,807 [   1851]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-06 17:03:38,229 [   3273]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1346 ms, 1 sources processed
+2017-01-06 17:03:38,229 [   3273]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 30 ms, 1 sources processed
+2017-01-06 17:03:38,235 [   3279]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-06 17:03:39,498 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 17:03:40,246 [    748]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 680 ms
+2017-01-06 17:03:40,257 [    759]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 17:03:40,275 [    777]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 17:03:40,614 [   1116]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 339 ms
+2017-01-06 17:03:40,614 [   1116]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-01-06 17:03:40,747 [   1249]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 17:03:40,880 [   1382]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1383 ms
+2017-01-06 17:03:40,920 [   1422]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-06 17:05:32,637 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 17:05:33,105 [    468]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 434 ms
+2017-01-06 17:05:33,162 [    525]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 17:05:33,513 [    876]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 351 ms
+2017-01-06 17:05:33,513 [    876]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-01-06 17:05:33,643 [   1006]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 17:05:33,807 [   1170]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2017-01-06 17:05:33,813 [   1176]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 17:05:33,813 [   1176]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 17:05:33,845 [   1208]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 17:05:33,845 [   1208]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c49a607
+2017-01-06 17:05:33,873 [   1236]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 17:05:33,886 [   1249]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 13 ms
+2017-01-06 17:05:34,207 [   1570]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 17:05:34,275 [   1638]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-06 17:05:34,980 [   2343]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 42 ms, 1 sources processed
+2017-01-06 17:05:34,980 [   2343]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 620 ms, 1 sources processed
+2017-01-06 17:05:34,986 [   2349]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-06 17:05:35,490 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 17:05:35,991 [    501]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 469 ms
+2017-01-06 17:05:35,999 [    509]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 17:05:36,014 [    524]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 17:05:36,344 [    854]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 330 ms
+2017-01-06 17:05:36,344 [    854]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-01-06 17:05:36,463 [    973]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 17:05:36,614 [   1124]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1125 ms
+2017-01-06 18:58:58,615 [6803125]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-06 19:00:58,112 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:00:58,609 [    497]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 468 ms
+2017-01-06 19:00:58,666 [    554]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:00:59,052 [    940]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 386 ms
+2017-01-06 19:00:59,052 [    940]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:00:59,203 [   1091]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:00:59,377 [   1265]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-06 19:00:59,382 [   1270]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 19:00:59,382 [   1270]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 19:00:59,413 [   1301]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 19:00:59,414 [   1302]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2599da30
+2017-01-06 19:00:59,420 [   1308]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 19:00:59,428 [   1316]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 8 ms
+2017-01-06 19:00:59,642 [   1530]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:00:59,803 [   1691]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-06 19:01:00,704 [   2592]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-06 19:01:00,853 [   2741]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 865 ms, 1 sources processed
+2017-01-06 19:01:00,853 [   2741]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 15 ms, 1 sources processed
+2017-01-06 19:01:00,853 [   2741]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 54 ms, 0 sources processed
+2017-01-06 19:01:00,859 [   2747]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-06 19:01:01,636 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:01:02,277 [    641]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 600 ms
+2017-01-06 19:01:02,287 [    651]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:01:02,301 [    665]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:01:02,820 [   1184]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 520 ms
+2017-01-06 19:01:02,820 [   1184]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:01:03,039 [   1403]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:01:03,184 [   1548]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1549 ms
+2017-01-06 19:07:47,435 [ 405799]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-06 19:07:56,952 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:07:57,440 [    488]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 455 ms
+2017-01-06 19:07:57,499 [    547]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:07:57,920 [    968]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 421 ms
+2017-01-06 19:07:57,920 [    968]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:07:58,077 [   1125]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:07:58,244 [   1292]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-06 19:07:58,251 [   1299]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 19:07:58,251 [   1299]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 19:07:58,282 [   1330]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 19:07:58,282 [   1330]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ca6e49d2
+2017-01-06 19:07:58,287 [   1335]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 19:07:58,290 [   1338]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2017-01-06 19:07:58,355 [   1403]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:07:58,442 [   1490]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-06 19:07:59,362 [   2410]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-06 19:07:59,426 [   2474]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 885 ms, 1 sources processed
+2017-01-06 19:07:59,432 [   2480]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-06 19:08:00,407 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:08:00,958 [    551]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 522 ms
+2017-01-06 19:08:00,967 [    560]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:08:00,982 [    575]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:08:01,349 [    942]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 367 ms
+2017-01-06 19:08:01,349 [    942]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:08:01,488 [   1081]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:08:01,645 [   1238]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1239 ms
+2017-01-06 19:08:12,625 [  12218]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-06 19:08:12,638 [  12231]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 19:08:12,639 [  12232]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 19:08:12,676 [  12269]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 19:08:12,676 [  12269]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c8807055
+2017-01-06 19:08:12,680 [  12273]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 19:08:12,686 [  12279]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2017-01-06 19:08:13,635 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:08:14,134 [    499]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 457 ms
+2017-01-06 19:08:14,143 [    508]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:08:14,156 [    521]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:08:14,505 [    870]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 349 ms
+2017-01-06 19:08:14,505 [    870]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:08:14,630 [    995]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:08:14,798 [   1163]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1165 ms
+2017-01-06 19:08:42,518 [  28883]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2017-01-06 19:08:42,521 [  28886]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-06 19:08:42,521 [  28886]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-06 19:08:42,556 [  28921]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-06 19:08:42,556 [  28921]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b4434ccb
+2017-01-06 19:08:42,564 [  28929]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-06 19:08:42,567 [  28932]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2017-01-06 19:08:42,912 [  29277]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-06 19:08:43,565 [  29930]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-06 19:08:43,636 [  30001]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 630 ms, 1 sources processed
+2017-01-06 19:08:43,636 [  30001]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Groovy stub generator' builder took 71 ms, 0 sources processed
+2017-01-06 19:08:43,644 [  30009]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-06 19:08:44,200 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-06 19:08:44,661 [    461]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 430 ms
+2017-01-06 19:08:44,669 [    469]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-06 19:08:44,684 [    484]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-06 19:08:45,052 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 368 ms
+2017-01-06 19:08:45,052 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-06 19:08:45,192 [    992]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-06 19:08:45,332 [   1132]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1133 ms
+2017-01-11 19:08:14,991 [431970791]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-13 11:36:45,239 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-13 11:36:45,882 [    643]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 600 ms
+2017-01-13 11:36:46,009 [    770]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-13 11:36:46,422 [   1183]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 413 ms
+2017-01-13 11:36:46,422 [   1183]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-13 11:36:46,594 [   1355]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-13 11:36:46,780 [   1541]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-13 11:36:46,785 [   1546]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-13 11:36:46,785 [   1546]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-13 11:36:46,818 [   1579]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-13 11:36:46,819 [   1580]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ea98e2d7
+2017-01-13 11:36:46,826 [   1587]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-13 11:36:46,829 [   1590]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2017-01-13 11:36:46,922 [   1683]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-13 11:36:47,035 [   1796]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: test1
+2017-01-13 11:36:47,801 [   2562]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-13 11:36:47,902 [   2663]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 742 ms, 1 sources processed
+2017-01-13 11:36:47,911 [   2672]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [test1]
+2017-01-13 11:36:49,283 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-13 11:36:49,892 [    609]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 585 ms
+2017-01-13 11:36:49,903 [    620]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-13 11:36:49,918 [    635]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/test1, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-13 11:36:50,286 [   1003]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 368 ms
+2017-01-13 11:36:50,286 [   1003]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 2 libraries
+2017-01-13 11:36:50,438 [   1155]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-13 11:36:50,611 [   1328]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1331 ms
+2017-01-13 12:03:26,346 [1597063]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-13 14:00:06,386 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-13 14:00:06,906 [    520]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 483 ms
+2017-01-13 14:00:06,973 [    587]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/ssi, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-13 14:00:07,431 [   1045]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 457 ms
+2017-01-13 14:00:07,431 [   1045]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2017-01-13 14:00:07,544 [   1158]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-13 14:00:07,803 [   1417]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2017-01-13 14:00:07,809 [   1423]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-13 14:00:07,809 [   1423]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-13 14:00:07,847 [   1461]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-13 14:00:07,847 [   1461]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f11646f8
+2017-01-13 14:00:07,898 [   1512]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-13 14:00:07,903 [   1517]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2017-01-13 14:00:08,222 [   1836]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-13 14:00:08,292 [   1906]   INFO - s.incremental.java.JavaBuilder - Compiling 6 java files; module: ssi
+2017-01-13 14:00:10,400 [   4014]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Resource Compiler' builder took 55 ms, 6 sources processed
+2017-01-13 14:00:10,401 [   4015]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 62 ms, 0 sources processed
+2017-01-13 14:00:10,401 [   4015]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1982 ms, 6 sources processed
+2017-01-13 14:00:10,406 [   4020]   INFO - s.incremental.java.JavaBuilder - javac 6 was used to compile [ssi]
+2017-01-13 14:00:11,914 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-13 14:00:12,435 [    521]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 486 ms
+2017-01-13 14:00:12,445 [    531]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-13 14:00:12,462 [    548]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij IDEA workspace/ssi, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-13 14:00:12,922 [   1008]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 460 ms
+2017-01-13 14:00:12,923 [   1009]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2017-01-13 14:00:13,033 [   1119]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-13 14:00:13,165 [   1251]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1253 ms
+2017-01-13 14:00:13,199 [   1285]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-17 15:28:09,663 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 15:28:10,447 [    784]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 717 ms
+2017-01-17 15:28:10,590 [    927]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 15:28:11,566 [   1903]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 976 ms
+2017-01-17 15:28:11,566 [   1903]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 15:28:12,146 [   2483]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 15:28:12,436 [   2773]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2017-01-17 15:28:12,441 [   2778]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 15:28:12,442 [   2779]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 15:28:12,485 [   2822]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 15:28:12,485 [   2822]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started adf8080
+2017-01-17 15:28:12,502 [   2839]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 15:28:14,172 [   4509]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1670 ms
+2017-01-17 15:28:14,812 [   5149]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 15:28:15,901 [   6238]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-slib
+2017-01-17 15:28:16,634 [   6971]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:28:16,774 [   7111]   INFO - s.incremental.java.JavaBuilder - Compiling 14 java files; module: sherpa-security
+2017-01-17 15:28:18,076 [   8413]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:28:18,412 [   8749]   INFO - s.incremental.java.JavaBuilder - Compiling 663 java files; module: sherpa-db
+2017-01-17 15:28:33,936 [  24273]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:28:36,117 [  26454]   INFO - s.incremental.java.JavaBuilder - Compiling 537 java files; module: sherpa-common
+2017-01-17 15:28:45,011 [  35348]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:28:45,962 [  36299]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 442 ms, 224 sources processed
+2017-01-17 15:28:45,962 [  36299]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 773 ms, 0 sources processed
+2017-01-17 15:28:45,963 [  36300]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 1242 ms, 0 sources processed
+2017-01-17 15:28:45,963 [  36300]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 26283 ms, 1215 sources processed
+2017-01-17 15:28:45,990 [  36327]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-slib, sherpa-db, sherpa-common, sherpa-security]
+2017-01-17 15:28:47,647 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 15:28:48,432 [    785]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 714 ms
+2017-01-17 15:28:48,445 [    798]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 15:28:48,463 [    816]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 15:28:49,628 [   1981]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1165 ms
+2017-01-17 15:28:49,628 [   1981]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 15:28:50,164 [   2517]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 15:28:50,424 [   2777]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2778 ms
+2017-01-17 15:42:06,500 [ 798853]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 15:42:06,509 [ 798862]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 15:42:06,509 [ 798862]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 15:42:06,567 [ 798920]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 15:42:06,567 [ 798920]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 995809c9
+2017-01-17 15:42:06,580 [ 798933]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 15:42:06,663 [ 799016]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 82 ms
+2017-01-17 15:42:07,442 [ 799795]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 15:42:09,576 [ 801929]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:42:09,797 [ 802150]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2093 ms, 1 sources processed
+2017-01-17 15:42:09,797 [ 802150]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 128 ms, 0 sources processed
+2017-01-17 15:42:09,806 [ 802159]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 15:42:10,649 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 15:42:11,344 [    695]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 627 ms
+2017-01-17 15:42:11,354 [    705]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 15:42:11,371 [    722]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 15:42:12,389 [   1740]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1018 ms
+2017-01-17 15:42:12,389 [   1740]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 15:42:12,960 [   2311]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 15:42:13,204 [   2555]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2558 ms
+2017-01-17 15:46:28,924 [ 258275]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 15:46:28,934 [ 258285]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 15:46:28,934 [ 258285]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 15:46:29,021 [ 258372]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 15:46:29,031 [ 258382]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b8f4d91a
+2017-01-17 15:46:29,047 [ 258398]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 15:46:29,126 [ 258477]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 79 ms
+2017-01-17 15:46:30,151 [ 259502]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 15:46:32,331 [ 261682]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:46:32,643 [ 261994]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2132 ms, 1 sources processed
+2017-01-17 15:46:32,643 [ 261994]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 163 ms, 0 sources processed
+2017-01-17 15:46:32,653 [ 262004]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 15:46:33,876 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 15:46:34,707 [    831]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 786 ms
+2017-01-17 15:46:34,719 [    843]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 15:46:34,740 [    864]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 15:46:35,765 [   1889]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1025 ms
+2017-01-17 15:46:35,765 [   1889]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 15:46:36,280 [   2404]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 15:46:36,526 [   2650]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2652 ms
+2017-01-17 15:47:28,091 [  54215]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 15:47:28,098 [  54222]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 15:47:28,098 [  54222]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 15:47:28,178 [  54302]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 15:47:28,178 [  54302]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f09a686f
+2017-01-17 15:47:28,189 [  54313]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 15:47:28,257 [  54381]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 67 ms
+2017-01-17 15:47:29,169 [  55293]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 15:47:31,063 [  57187]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 15:47:31,231 [  57355]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1866 ms, 1 sources processed
+2017-01-17 15:47:31,231 [  57355]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 96 ms, 0 sources processed
+2017-01-17 15:47:31,237 [  57361]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 15:47:32,067 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 15:47:32,941 [    874]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 802 ms
+2017-01-17 15:47:32,955 [    888]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 15:47:32,971 [    904]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 15:47:34,064 [   1997]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1093 ms
+2017-01-17 15:47:34,066 [   1999]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 15:47:34,744 [   2677]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 15:47:34,971 [   2904]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2906 ms
+2017-01-17 16:07:56,882 [1224815]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:07:56,896 [1224829]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:07:56,896 [1224829]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:07:56,956 [1224889]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:07:56,956 [1224889]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c2c278ea
+2017-01-17 16:07:56,974 [1224907]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:07:57,139 [1225072]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 165 ms
+2017-01-17 16:07:57,846 [1225779]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:07:59,739 [1227672]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:07:59,898 [1227831]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1849 ms, 1 sources processed
+2017-01-17 16:07:59,898 [1227831]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 84 ms, 0 sources processed
+2017-01-17 16:07:59,907 [1227840]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:08:01,028 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:08:01,936 [    908]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 835 ms
+2017-01-17 16:08:01,947 [    919]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:08:01,970 [    942]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:08:03,102 [   2074]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1132 ms
+2017-01-17 16:08:03,102 [   2074]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:08:03,593 [   2565]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:08:03,843 [   2815]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2816 ms
+2017-01-17 16:13:14,740 [ 313712]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:13:14,749 [ 313721]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:13:14,749 [ 313721]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:13:14,803 [ 313775]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:13:14,803 [ 313775]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 981252cf
+2017-01-17 16:13:14,815 [ 313787]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:13:14,871 [ 313843]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 56 ms
+2017-01-17 16:13:15,623 [ 314595]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:13:17,552 [ 316524]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:13:17,713 [ 316685]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 56 ms, 0 sources processed
+2017-01-17 16:13:17,713 [ 316685]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1920 ms, 1 sources processed
+2017-01-17 16:13:17,720 [ 316692]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:13:18,548 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:13:19,509 [    961]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 916 ms
+2017-01-17 16:13:19,518 [    970]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:13:19,536 [    988]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:13:20,580 [   2032]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1044 ms
+2017-01-17 16:13:20,580 [   2032]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:13:21,147 [   2599]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:13:21,374 [   2826]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2827 ms
+2017-01-17 16:16:26,242 [ 187694]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:16:26,249 [ 187701]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:16:26,249 [ 187701]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:16:26,313 [ 187765]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:16:26,313 [ 187765]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 89bdaa0b
+2017-01-17 16:16:26,328 [ 187780]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:16:26,379 [ 187831]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 51 ms
+2017-01-17 16:16:27,292 [ 188744]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:16:29,495 [ 190947]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:16:29,764 [ 191216]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 123 ms, 0 sources processed
+2017-01-17 16:16:29,764 [ 191216]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2170 ms, 1 sources processed
+2017-01-17 16:16:29,764 [ 191216]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'IntelliLang Pattern Validator' builder took 60 ms, 0 sources processed
+2017-01-17 16:16:29,772 [ 191224]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:16:30,791 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:16:31,922 [   1131]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1060 ms
+2017-01-17 16:16:31,936 [   1145]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:16:31,959 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:16:33,841 [   3050]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1882 ms
+2017-01-17 16:16:33,841 [   3050]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:16:34,400 [   3609]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:16:34,652 [   3861]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3872 ms
+2017-01-17 16:21:57,981 [ 327190]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:21:58,000 [ 327209]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:21:58,000 [ 327209]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:21:58,060 [ 327269]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:21:58,060 [ 327269]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e4543c74
+2017-01-17 16:21:58,076 [ 327285]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:21:58,172 [ 327381]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 96 ms
+2017-01-17 16:21:58,913 [ 328122]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:22:01,231 [ 330440]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:22:01,391 [ 330600]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2287 ms, 1 sources processed
+2017-01-17 16:22:01,392 [ 330601]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 85 ms, 0 sources processed
+2017-01-17 16:22:01,397 [ 330606]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:22:02,548 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:22:03,333 [    785]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 735 ms
+2017-01-17 16:22:03,342 [    794]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:22:03,361 [    813]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:22:04,231 [   1683]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 870 ms
+2017-01-17 16:22:04,231 [   1683]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:22:04,793 [   2245]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:22:04,986 [   2438]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2439 ms
+2017-01-17 16:32:25,981 [ 623433]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:32:25,991 [ 623443]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:32:25,991 [ 623443]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:32:26,050 [ 623502]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:32:26,052 [ 623504]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started caec0d4e
+2017-01-17 16:32:26,062 [ 623514]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:32:26,199 [ 623651]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 137 ms
+2017-01-17 16:32:26,980 [ 624432]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:32:29,104 [ 626556]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:32:29,269 [ 626721]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 112 ms, 0 sources processed
+2017-01-17 16:32:29,269 [ 626721]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Maven Resources Compiler' builder took 72 ms, 0 sources processed
+2017-01-17 16:32:29,269 [ 626721]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2108 ms, 1 sources processed
+2017-01-17 16:32:29,278 [ 626730]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:32:30,244 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:32:31,077 [    833]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 785 ms
+2017-01-17 16:32:31,088 [    844]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:32:31,104 [    860]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:32:32,140 [   1896]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1036 ms
+2017-01-17 16:32:32,140 [   1896]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:32:32,776 [   2532]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:32:33,103 [   2859]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2860 ms
+2017-01-17 16:41:14,204 [ 523960]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 16:41:14,208 [ 523964]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 16:41:14,209 [ 523965]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 16:41:14,251 [ 524007]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 16:41:14,251 [ 524007]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 411c60d0
+2017-01-17 16:41:14,260 [ 524016]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 16:41:14,305 [ 524061]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 45 ms
+2017-01-17 16:41:14,788 [ 524544]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 16:41:16,770 [ 526526]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 16:41:16,932 [ 526688]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1955 ms, 1 sources processed
+2017-01-17 16:41:16,932 [ 526688]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 91 ms, 0 sources processed
+2017-01-17 16:41:16,939 [ 526695]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 16:41:18,234 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 16:41:19,087 [    853]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 799 ms
+2017-01-17 16:41:19,098 [    864]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 16:41:19,118 [    884]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 16:41:20,044 [   1810]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 926 ms
+2017-01-17 16:41:20,044 [   1810]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 16:41:20,478 [   2244]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 16:41:20,703 [   2469]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2472 ms
+2017-01-17 16:56:50,785 [ 932551]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-01-17 17:05:21,972 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 17:05:23,136 [   1164]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1071 ms
+2017-01-17 17:05:23,242 [   1270]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 17:05:25,116 [   3144]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1874 ms
+2017-01-17 17:05:25,116 [   3144]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 17:05:26,069 [   4097]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 17:05:26,442 [   4470]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2017-01-17 17:05:26,453 [   4481]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-01-17 17:05:26,455 [   4483]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-01-17 17:05:26,539 [   4567]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-01-17 17:05:26,539 [   4567]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c2e574e2
+2017-01-17 17:05:26,556 [   4584]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-01-17 17:05:26,764 [   4792]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 208 ms
+2017-01-17 17:05:27,546 [   5574]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 17:05:28,674 [   6702]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sherpa-common
+2017-01-17 17:05:32,166 [  10194]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2017-01-17 17:05:32,353 [  10381]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 89 ms, 0 sources processed
+2017-01-17 17:05:32,353 [  10381]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 3458 ms, 1 sources processed
+2017-01-17 17:05:32,354 [  10382]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Google AppEngine Enhancer' builder took 51 ms, 0 sources processed
+2017-01-17 17:05:32,360 [  10388]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_102 was used to compile [sherpa-common]
+2017-01-17 17:05:33,306 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/jps-launcher.jar;D:/Program Files/Java/jdk1.8.0_102/lib/tools.jar;D:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/lib/optimizedFileManager.jar
+2017-01-17 17:05:34,934 [   1628]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1549 ms
+2017-01-17 17:05:34,946 [   1640]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2017-01-17 17:05:34,971 [   1665]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = E:/workspace/Intellij_IDEA_workspace/sherpa-trunk, global options path = C:/Users/Dell/.IntelliJIdea2016.3/config/options
+2017-01-17 17:05:38,325 [   5019]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 3354 ms
+2017-01-17 17:05:38,325 [   5019]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 15 modules, 176 libraries
+2017-01-17 17:05:39,116 [   5810]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-01-17 17:05:39,449 [   6143]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6145 ms
+2017-01-17 17:18:27,233 [ 773927]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

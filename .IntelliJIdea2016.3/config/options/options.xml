@@ -1,0 +1,54 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="evlsprt3.163" value="13" />
+    <property name="installed.kotlin.plugin.version" value="1.0.6-release-IJ2016.3-1" />
+    <property name="android-component-compatibility-check" value="1484633150814" />
+    <property name="file.chooser.recent.files" value="E:/workspace/Intellij_IDEA_workspace/sherpa-1.0.18&#10;E:/workspace/Intellij_IDEA_workspace/sherpa-trunk&#10;E:/workspace/Intellij_IDEA_workspace/ssi&#10;E:/workspace/Intellij_IDEA_workspace/json-iterator&#10;E:/workspace/Intellij_IDEA_workspace/test1&#10;E:/workspace/Intellij_IDEA_workspace&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-security/pom.xml&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-web-api/pom.xml&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-slib/pom.xml&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-db/pom.xml&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-resource/pom.xml&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-resource&#10;E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa/pom.xml&#10;E:/workspace/Intellij IDEA workspace&#10;D:/Program Files/Java/jdk1.7.0_80&#10;D:/Program Files/Java/jdk1.6.0_45&#10;C:/Users/Dell/Downloads/training-0.7.35.zip&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-web-api&#10;D:/dev_soft/apache-tomcat-8.0.37/bin/shutdown.bat&#10;D:/dev_soft/apache-tomcat-8.0.37/bin/startup.sh&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-wechat&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-rest-api&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-dms3&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-auth-api&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-cou-api&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-util&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-batch&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-slib&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-security&#10;E:/workspace/Intellij IDEA workspace/sherpa-trunk/sherpa-resource" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="20" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="KEYMAP" value="close&#10;undo&#10;content&#10;toolbar" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="last.imported.location" value="E:/workspace/Intellij IDEA workspace/sherpa-1.0.18/sherpa-resource" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.15491867" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15491867" />
+    <property name="LOG_FILTER_HISTORY" value="" />
+    <property name="FileTemplates.SelectedTemplate" value="XML Properties File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.18348624" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.22497188" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.29069766" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.4106776" />
+    <property name="FrameworksFinderRecursivePanel[5]" value="0.6993007" />
+    <property name="PLUGIN_FILTER" value="git&#10;IDE&#10;Prom&#10;trainer" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="settings.code.style.selected.tab.SQL" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.CFML" value="Spaces" />
+    <property name="kotlin.lastUpdateCheck" value="1483684865628" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.9063545" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.78228784" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="typescript.use.directory.import.node" value="false" />
+    <property name="quick.doc.font.size" value="SMALL" />
+  </component>
+</application>

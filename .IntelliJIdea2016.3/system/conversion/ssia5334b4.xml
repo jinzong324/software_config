@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\.idea\libraries\lib.xml" timestamp="1484280206718" />
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\.idea\misc.xml" timestamp="1484565316246" />
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\.idea\modules.xml" timestamp="1484280206699" />
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\.idea\vcs.xml" timestamp="1484280206687" />
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\.idea\workspace.xml" timestamp="1484565347794" />
+    <file path="E:\workspace\Intellij IDEA workspace\ssi\ssi.iml" timestamp="1484286783295" />
+  </project-files>
+</conversion>
+

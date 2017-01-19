@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\compiler.xml" timestamp="1481878746130" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\libraries\Maven__com_jsoniter_jsoniter_0_9_1.xml" timestamp="1481878897598" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1481878897611" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1481878897626" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1481878897638" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\misc.xml" timestamp="1481879967375" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\modules.xml" timestamp="1481878746137" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\uiDesigner.xml" timestamp="1481856960643" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\.idea\workspace.xml" timestamp="1483675283454" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\LearnProject.iml" timestamp="1481856647956" />
+    <file path="E:\workspace\Intellij IDEA workspace\LearnProject\learn1\learn1.iml" timestamp="1481878897568" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="sherpa">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa</directory>
+        <manifest />
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\target" />
+          <entry key="build.finalName" value="DMS3" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa" />
+          <entry key="packaging" value="pom" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-auth-api">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-auth-api</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-auth-api</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-common-1.0.9-SNAPSHOT.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar joda-time-2.6.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar iTextAsian-2.1.7.jar iText-2.1.7.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar sherpa-security-1.0.9-SNAPSHOT.jar httpmime-4.5.2.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar xercesImpl-2.11.0.jar xml-apis-1.4.01.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar commons-io-1.3.2.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar jcifs-1.3.17.jar nosmf-1.0.0-20161017.052910-8.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-auth-api" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\target" />
+          <entry key="build.finalName" value="sherpa-auth-api" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-auth-api" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-auth-api\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-auth-api/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-auth-api/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-batch">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-batch</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-batch</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-common-1.0.9-SNAPSHOT.jar joda-time-2.6.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar iTextAsian-2.1.7.jar iText-2.1.7.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar httpmime-4.5.2.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar sherpa-security-1.0.9-SNAPSHOT.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar xercesImpl-2.11.0.jar xml-apis-1.4.01.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar commons-io-1.3.2.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-websocket-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar jcifs-1.3.17.jar nosmf-1.0.0-20161017.052910-8.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar quartz-2.2.2.jar c3p0-0.9.1.1.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-batch" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\target" />
+          <entry key="build.finalName" value="sherpa-batch" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-batch" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-batch\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-batch/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-batch/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-common">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-common</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-common</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-security-1.0.9-SNAPSHOT.jar commons-io-1.3.2.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar joda-time-2.6.jar nosmf-1.0.0-20161017.052910-8.jar xercesImpl-2.11.0.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar xml-apis-1.3.02.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar iTextAsian-2.1.7.jar iText-2.1.7.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar httpmime-4.5.2.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar jcifs-1.3.17.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-common" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\target" />
+          <entry key="build.finalName" value="sherpa-common" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-common" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-common\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-common/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-common/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-cou-api">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-cou-api</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-cou-api</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-common-1.0.9-SNAPSHOT.jar joda-time-2.6.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar iTextAsian-2.1.7.jar iText-2.1.7.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar httpmime-4.5.2.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar sherpa-security-1.0.9-SNAPSHOT.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar xercesImpl-2.11.0.jar xml-apis-1.4.01.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar commons-io-1.3.2.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar jcifs-1.3.17.jar nosmf-1.0.0-20161017.052910-8.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-cou-api" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\target" />
+          <entry key="build.finalName" value="sherpa-cou-api" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-cou-api" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-cou-api\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-cou-api/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-cou-api/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-db">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-db</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-db</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>mybatis-3.2.8.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-db" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\target" />
+          <entry key="build.finalName" value="sherpa-db" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-db" />
+          <entry key="packaging" value="jar" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-db\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-db/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-db/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-dms">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-dms</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-dms3</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-common-1.0.9-SNAPSHOT.jar joda-time-2.6.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar httpmime-4.5.2.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar sherpa-security-1.0.9-SNAPSHOT.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar xercesImpl-2.11.0.jar xml-apis-1.4.01.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar commons-io-1.3.2.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar jcifs-1.3.17.jar nosmf-1.0.0-20161017.052910-8.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar iTextAsian-2.1.7.jar iText-2.1.7.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-dms" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\target" />
+          <entry key="build.finalName" value="sherpa-dms3" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-dms" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-dms3\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-dms3/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-dms3/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-resource">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-resource</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-resource</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>javax.servlet-api-3.0.1.jar jsp-api-2.2.jar sitemesh-2.4.2.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-resource" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\target" />
+          <entry key="build.finalName" value="sherpa-resource" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-resource" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-resource\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="cache.max-active" value="100" />
+          <entry key="cache.max-idle" value="20" />
+          <entry key="cache.max-wait" value="3000" />
+          <entry key="cache.password" value="" />
+          <entry key="cache.port" value="6379" />
+          <entry key="cache.server" value="" />
+          <entry key="cache.time-out" value="1000" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="deploy.phase" value="local" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="fax.ipaddress" value="222.66.124.119:8080" />
+          <entry key="fax.password" value="000000" />
+          <entry key="fax.tempPath" value="d:/sherpa_temp_fax" />
+          <entry key="fax.timeOutInMilliSeconds" value="15000" />
+          <entry key="fax.userId" value="35364020" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="jpush.courier.appKey" value="e5b00c2d29d4d339f1cd18c6" />
+          <entry key="jpush.courier.masterSecret" value="d11742a43ef3f25be5443482" />
+          <entry key="jpush.rest.appKey" value="e5b00c2d29d4d339f1cd18c6" />
+          <entry key="jpush.rest.masterSecret" value="d11742a43ef3f25be5443482" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mail_accounting" value="dl_yu@sherpa.com.cn" />
+          <entry key="mobile-send-sms.account" value="jiekou-clcs-13" />
+          <entry key="mobile-send-sms.base-url" value="http://222.73.117.158:80/msg/HttpBatchSendSM" />
+          <entry key="mobile-send-sms.password" value="KIUH1decvee" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="paypal.clientId" value="AVKvg2pzkiTBhiZx_zr-LFrZysu1f6KFZ7hJGnJMno7rH-eP41kbRcEcUscC6E-wTYYPzCTo3xsF1eDL" />
+          <entry key="paypal.clientSecret" value="EGhlPUSs1mEaQAUS7twQXu7Ec9gt68qgVRgYGkp2VVJ6Wz2AYmFHImyFQcv1jDzMR_hzqmINeKq-qMln" />
+          <entry key="paypal.mode" value="sandbox" />
+          <entry key="paypal.service.EndPoint" value="https://api.sandbox.paypal.com" />
+          <entry key="pingxx.apiKey" value="sk_live_CeTqTGLG4C4KmDCCSKiP0OO4" />
+          <entry key="pingxx.appId" value="app_rPG40SvTy9a9XLiD" />
+          <entry key="pingxx.privateKeyPath" value="D:/ping/sherpa_rsa_private_key.pem" />
+          <entry key="pingxx.publicKeyPath" value="D:/ping/sherpa_rsa_public_key.pem" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="submail-sms.app_id" value="11817" />
+          <entry key="submail-sms.app_key" value="169be781fbd377ebd79e5018a20cbf2b" />
+          <entry key="submail-sms.app_signtype" value="normal" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="url.admin-resource" value="/resources" />
+          <entry key="url.file-server" value="http://sherpa.ressky.com/assets" />
+          <entry key="url.log-server" value="http://loacl-log.shearps.com" />
+          <entry key="url.pay-push-server" value="http://dev-pay.sherpa.com.cn:8088" />
+          <entry key="url.pdf-file-server" value="http://sherpa.ressky.com/assets/PDF/Order" />
+          <entry key="url.rest-api" value="http://dms3-uat.sherpa.com.cn/sherpa-rest-api" />
+          <entry key="url.smb-file-server" value="smb://smbuser:sherpa6209!@sherpa.ressky.com/public/" />
+          <entry key="url.static-server" value="http://sherpa.ressky.com" />
+          <entry key="url.web-index" value="http://dms3-uat.sherpa.com.cn/index.html#/index" />
+          <entry key="url.web-order-pay-success" value="http://dev.sherpa.com.cn/order/success/" />
+          <entry key="url.web-order-push-server" value="ws://localhost:8080/sherpa-batch/webSocketServer" />
+          <entry key="url.web-resource" value="/resources" />
+          <entry key="url.web-socket-msg-server" value="http://localhost:8080/sherpa-batch/" />
+          <entry key="url.wechat" value="http://127.0.0.1:68/sherpa-wechat" />
+          <entry key="url.www" value="http://dev.sherpa.com.cn" />
+          <entry key="wechat.qyh.corpid" value="wx9d54b8ec2488fba9" />
+          <entry key="wechat.qyh.corpsecret" value="mHSmcGQkdtnzU9WSnx5qhoMwnT-1NJt_759IBZbSLIKLsixls8iSev6weBimDLFX" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="true">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-resource/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes>
+              <pattern value="**/filters/*.properties" />
+            </excludes>
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-resource/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-rest-api">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-rest-api</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-rest-api</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath>sherpa-slib-1.0.9-SNAPSHOT.jar sherpa-db-1.0.9-SNAPSHOT.jar sherpa-common-1.0.9-SNAPSHOT.jar joda-time-2.6.jar jasperreports-6.2.0.jar itext-2.1.7.js4.jar bcmail-jdk14-138.jar bcprov-jdk14-138.jar bctsp-jdk14-1.38.jar bcprov-jdk14-1.38.jar bcmail-jdk14-1.38.jar jcommon-1.0.23.jar jfreechart-1.0.19.jar ecj-4.3.1.jar castor-xml-1.3.3.jar castor-core-1.3.3.jar javax.inject-1.jar stax-1.2.0.jar lucene-core-4.5.1.jar lucene-analyzers-common-4.5.1.jar lucene-queryparser-4.5.1.jar lucene-queries-4.5.1.jar lucene-sandbox-4.5.1.jar jakarta-regexp-1.4.jar olap4j-0.9.7.309-JS-3.jar jasperreports-fonts-6.1.1.jar jasperreports-functions-6.2.0.jar iTextAsian-2.1.7.jar iText-2.1.7.jar simsun-1.0.jar jpush-client-3.2.9.jar gson-2.2.4.jar slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar guava-17.0.jar httpclient-4.5.2.jar httpcore-4.4.4.jar httpmime-4.5.2.jar pingpp-java-2.1.2.jar rest-api-sdk-1.6.0.jar core-3.2.1.jar axis2-adb-1.7.3.jar axiom-dom-1.2.19.jar geronimo-activation_1.1_spec-1.0.2.jar axis2-adb-codegen-1.7.3.jar xmlschema-core-2.2.1.jar commons-cli-1.2.jar axis2-codegen-1.7.3.jar jaxws-tools-2.2.6.jar axis2-java2wsdl-1.7.3.jar axis2-transport-http-1.7.3.jar commons-httpclient-3.1.jar axis2-transport-local-1.7.3.jar ant-1.7.0.jar ant-launcher-1.7.0.jar geronimo-javamail_1.4_spec-1.6.jar axis2-kernel-1.7.3.jar geronimo-ws-metadata_2.0_spec-1.1.2.jar geronimo-jta_1.1_spec-1.1.jar neethi-3.0.3.jar woden-core-1.0M10.jar jsr311-api-1.1.1.jar axiom-api-1.2.19.jar geronimo-stax-api_1.0_spec-1.0.1.jar apache-mime4j-core-0.7.2.jar axiom-impl-1.2.19.jar jdom-2.0.2.jar stax-api-1.0.1.jar wsdl4j-1.6.3.jar woodstox-core-asl-4.4.1.jar stax-api-1.0-2.jar stax2-api-3.1.4.jar XmlSchema-1.4.7.jar commons-codec-1.10.jar sherpa-security-1.0.9-SNAPSHOT.jar commons-logging-1.2.jar log4j-1.2.17.jar aopalliance-1.0.jar commons-lang3-3.3.2.jar tomcat-jdbc-8.0.17.jar tomcat-juli-8.0.17.jar commons-beanutils-1.9.2.jar commons-collections-3.2.1.jar commons-fileupload-1.3.1.jar xercesImpl-2.11.0.jar xml-apis-1.4.01.jar xalan-2.7.2.jar serializer-2.7.2.jar dom4j-1.6.1.jar jaxen-1.1.6.jar commons-io-1.3.2.jar javax.servlet-api-3.0.1.jar jsp-api-2.2.jar jackson-core-2.4.4.jar jackson-databind-2.4.4.jar jackson-annotations-2.4.4.jar spring-core-4.1.4.RELEASE.jar spring-aop-4.1.4.RELEASE.jar spring-jdbc-4.1.4.RELEASE.jar spring-aspects-4.1.4.RELEASE.jar aspectjweaver-1.8.4.jar spring-beans-4.1.4.RELEASE.jar spring-context-4.1.4.RELEASE.jar spring-expression-4.1.4.RELEASE.jar spring-orm-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar spring-webmvc-4.1.4.RELEASE.jar spring-tx-4.1.4.RELEASE.jar sitemesh-2.4.2.jar mybatis-3.2.8.jar mybatis-spring-1.2.2.jar jxls-core-1.0.6.jar commons-digester-2.0.jar commons-jexl-2.0.1.jar jstl-1.2.jar poi-3.11.jar poi-ooxml-3.11.jar poi-ooxml-schemas-3.11.jar xmlbeans-2.6.0.jar mysql-connector-java-5.1.34.jar jcifs-1.3.17.jar nosmf-1.0.0-20161017.052910-8.jar spring-context-support-4.1.4.RELEASE.jar freemarker-2.3.21.jar oscache-2.4.1.jar oro-2.0.8.jar jedis-2.6.2.jar commons-pool2-2.0.jar fastjson-1.2.4.jar mail-1.4.7.jar activation-1.1.jar velocity-1.7.jar commons-lang-2.4.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-rest-api" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\target" />
+          <entry key="build.finalName" value="sherpa-rest-api" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\src\main\java" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\src\test\java" />
+          <entry key="distributionManagement.repository" value="id = 'sherpa-release'" />
+          <entry key="distributionManagement.repository.id" value="sherpa-release" />
+          <entry key="distributionManagement.repository.layout" value="default" />
+          <entry key="distributionManagement.repository.name" value="sherpa Project Release" />
+          <entry key="distributionManagement.repository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.repository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/releases/" />
+          <entry key="distributionManagement.snapshotRepository" value="id = 'sherpa-snapshots'" />
+          <entry key="distributionManagement.snapshotRepository.id" value="sherpa-snapshots" />
+          <entry key="distributionManagement.snapshotRepository.layout" value="default" />
+          <entry key="distributionManagement.snapshotRepository.name" value="sherpa Project SNAPSHOTS" />
+          <entry key="distributionManagement.snapshotRepository.uniqueVersion" value="true" />
+          <entry key="distributionManagement.snapshotRepository.url" value="http://sherpa.3322.org:8081/nexus/content/repositories/snapshots/" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="sherpa-rest-api" />
+          <entry key="packaging" value="war" />
+          <entry key="parent" value="com.sherpa:sherpa:pom:1.0.9-SNAPSHOT" />
+          <entry key="parent.artifactId" value="sherpa" />
+          <entry key="parent.groupId" value="com.sherpa" />
+          <entry key="parent.relativePath" value="../sherpa" />
+          <entry key="parent.version" value="1.0.9-SNAPSHOT" />
+          <entry key="pomFile" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\pom.xml" />
+          <entry key="reporting.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-rest-api\target\site" />
+          <entry key="url" value="http://www.sherpa.com" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-rest-api/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-rest-api/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-security">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-security</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-security</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-security" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-security\target" />
+          <entry key="build.finalName" value="sherpa-security" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-security\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-security\target\test-classes" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-security/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-security/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-slib">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-slib</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-slib</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-slib" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-slib\target" />
+          <entry key="build.finalName" value="sherpa-slib" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-slib\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-slib\target\test-classes" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="master.driverClass" value="com.mysql.jdbc.Driver" />
+          <entry key="master.maxActive" value="500" />
+          <entry key="master.password" value="62096209" />
+          <entry key="master.url" value="jdbc:mysql://42.62.111.27:33067/dms3_uat?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
+          <entry key="master.user" value="sherpa" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="slave.driverClass" value="com.mysql.jdbc.Driver" />
+          <entry key="slave.maxActive" value="500" />
+          <entry key="slave.password" value="62096209" />
+          <entry key="slave.url" value="jdbc:mysql://42.62.111.27:33067/dms3_uat?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
+          <entry key="slave.user" value="sherpa" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="true">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-slib/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes>
+              <pattern value="**/filters/*.properties" />
+            </excludes>
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-slib/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-util">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-util</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-util</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-util" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-util\target" />
+          <entry key="build.finalName" value="sherpa-util" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-util\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-util\target\test-classes" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-util/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-util/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-web-api">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-web-api</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-web-api</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-web-api" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-web-api\target" />
+          <entry key="build.finalName" value="sherpa-web-api" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-web-api\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-web-api\target\test-classes" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-web-api/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-web-api/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="sherpa-wechat">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa-wechat</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId>
+          <MavenIdBean>
+            <groupId>com.sherpa</groupId>
+            <artifactId>sherpa</artifactId>
+            <version>1.0.9-SNAPSHOT</version>
+          </MavenIdBean>
+        </parentId>
+        <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-wechat</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogRGVsbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMDINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="sherpa-wechat" />
+          <entry key="build.directory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-wechat\target" />
+          <entry key="build.finalName" value="sherpa-wechat" />
+          <entry key="build.outputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-wechat\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk\sherpa-wechat\target\test-classes" />
+          <entry key="groupId" value="com.sherpa" />
+          <entry key="version" value="1.0.9-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="aopalliance.version" value="1.0" />
+          <entry key="axiom.version" value="1.2.19" />
+          <entry key="axis2.version" value="1.7.3" />
+          <entry key="common-io.version" value="1.3.2" />
+          <entry key="commons-beanutils.version" value="1.9.2" />
+          <entry key="commons-codec.version" value="1.10" />
+          <entry key="commons-fileupload" value="1.3.1" />
+          <entry key="commons-lang.version" value="3.3.2" />
+          <entry key="commons-logging.version" value="1.2" />
+          <entry key="dom4j.version" value="1.6.1" />
+          <entry key="env" value="local" />
+          <entry key="im4java.version" value="1.4.0" />
+          <entry key="jackson.version" value="2.4.4" />
+          <entry key="jasperreports.version" value="6.2.0" />
+          <entry key="java.home" value="D:/Program Files/Java/jdk1.8.0_102/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_102&quot;" />
+          <entry key="jaxen.version" value="1.1.6" />
+          <entry key="jcifs.version" value="1.3.17" />
+          <entry key="jdom.version" value="2.0.2" />
+          <entry key="jedis.version" value="2.6.2" />
+          <entry key="joda-time.version" value="2.6" />
+          <entry key="json.version" value="1.2.4" />
+          <entry key="jsp-api.version" value="2.2" />
+          <entry key="jstl.version" value="1.2" />
+          <entry key="junit.version" value="4.11" />
+          <entry key="jxl.version" value="2.6.12" />
+          <entry key="jxls.version" value="1.0.6" />
+          <entry key="log4j.log.level" value="DEBUG" />
+          <entry key="log4j.version" value="1.2.17" />
+          <entry key="mybatis-spring.version" value="1.2.2" />
+          <entry key="mybatis.version" value="3.2.8" />
+          <entry key="mysql.version" value="5.1.34" />
+          <entry key="nosmf.version" value="1.0.0-SNAPSHOT" />
+          <entry key="poi-ooxml.version" value="3.11" />
+          <entry key="poi.version" value="3.11" />
+          <entry key="quartz.version" value="2.2.2" />
+          <entry key="servlet-api.version" value="3.0.1" />
+          <entry key="settings.localRepository" value="C:\Users\Dell\.m2\repository" />
+          <entry key="sitemesh.version" value="2.4.2" />
+          <entry key="spring.version" value="4.1.4.RELEASE" />
+          <entry key="stax-api.version" value="1.0.1" />
+          <entry key="tomcat-jdbc.version" value="8.0.17" />
+          <entry key="woodstox-core-asl.version" value="4.4.1" />
+          <entry key="wsdl4j.version" value="1.6.3" />
+          <entry key="xalan.version" value="2.7.2" />
+          <entry key="xercesImpl.version" value="2.11.0" />
+          <entry key="xmlSchema.version" value="1.4.7" />
+          <entry key="ytx.version" value="2.6.3" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-wechat/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>E:/workspace/Intellij_IDEA_workspace/sherpa-trunk/sherpa-wechat/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>
+
