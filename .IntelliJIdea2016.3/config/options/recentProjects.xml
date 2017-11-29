@@ -2,8 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk" />
-        <option value="E:\workspace\Intellij_IDEA_workspace\sherpa-1.0.18" />
         <option value="E:\workspace\Intellij_IDEA_workspace\ssi" />
         <option value="E:\workspace\Intellij_IDEA_workspace\json-iterator" />
         <option value="E:\workspace\Intellij_IDEA_workspace\test1" />
@@ -11,10 +9,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk" />
+        <option value="E:\workspace\Intellij_IDEA_workspace" />
       </list>
     </option>
-    <option name="lastPath" value="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk" />
+    <option name="lastPath" value="E:\workspace\Intellij_IDEA_workspace" />
     <option name="additionalInfo">
       <map>
         <entry key="E:\workspace\Intellij IDEA workspace\LearnProject">
@@ -36,28 +34,6 @@
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
               <option name="projectOpenTimestamp" value="1481884719766" />
               <option name="buildTimestamp" value="1481287165561" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="E:\workspace\Intellij IDEA workspace\sherpa-1.0.18">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.9166.29" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
-              <option name="projectOpenTimestamp" value="1484565347807" />
-              <option name="buildTimestamp" value="1481287194914" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="E:\workspace\Intellij IDEA workspace\sherpa-trunk">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.9166.29" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
-              <option name="projectOpenTimestamp" value="1481883546847" />
-              <option name="buildTimestamp" value="1481287198096" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -83,17 +59,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="E:\workspace\Intellij_IDEA_workspace">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.9166.29" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
-              <option name="projectOpenTimestamp" value="1484633196262" />
-              <option name="buildTimestamp" value="1481287187176" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="E:\workspace\Intellij_IDEA_workspace\json-iterator">
           <value>
             <RecentProjectMetaInfo>
@@ -101,28 +66,6 @@
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
               <option name="projectOpenTimestamp" value="1484633436715" />
-              <option name="buildTimestamp" value="1481287193680" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="E:\workspace\Intellij_IDEA_workspace\sherpa-1.0.18">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.9166.29" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
-              <option name="projectOpenTimestamp" value="1484707717196" />
-              <option name="buildTimestamp" value="1481287193680" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="E:\workspace\Intellij_IDEA_workspace\sherpa-trunk">
-          <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="IU-163.9166.29" />
-              <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3\bin" />
-              <option name="projectOpenTimestamp" value="1484707907479" />
               <option name="buildTimestamp" value="1481287193680" />
             </RecentProjectMetaInfo>
           </value>
